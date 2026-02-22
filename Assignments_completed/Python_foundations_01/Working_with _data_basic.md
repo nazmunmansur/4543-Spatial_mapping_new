@@ -1,1 +1,0 @@
-# I have run the notebook top to bottom. Also completed the mini quiz and worksheet. I hope I am all good for the sumission of this part of the assignment. 
