@@ -4,82 +4,19 @@
     {
       "type": "Feature",
       "properties": {
-        "from-city": "Tokyo",
-        "to-city": "Paris",
-        "stroke": "#ffff00"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            139.69171,
-            35.6895
-          ],
-          [
-            2.3488,
-            48.85341
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "from-city": "Paris",
-        "to-city": "London",
-        "stroke": "#00ffff"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            2.3488,
-            48.85341
-          ],
-          [
-            -0.12574,
-            51.50853
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "from-city": "London",
-        "to-city": "London",
-        "stroke": "#00ff00"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            -0.12574,
-            51.50853
-          ],
-          [
-            -0.12574,
-            51.50853
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "from-city": "London",
-        "to-city": "New York City",
+        "from-city": "MSU-TX",
+        "to-city": "El Tarter",
         "stroke": "#ff0000"
       },
       "geometry": {
         "coordinates": [
           [
-            -0.12574,
-            51.50853
+            -98.5316,
+            33.8903
           ],
           [
-            -74.00597,
-            40.71427
+            1.65362,
+            42.57952
           ]
         ],
         "type": "LineString"
@@ -88,19 +25,82 @@
     {
       "type": "Feature",
       "properties": {
-        "from-city": "New York City",
-        "to-city": "Tokyo",
+        "from-city": "MSU-TX",
+        "to-city": "Paris",
+        "stroke": "#00ffff"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -98.5316,
+            33.8903
+          ],
+          [
+            2.3488,
+            48.85341
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from-city": "MSU-TX",
+        "to-city": "Sant Julia de Loria",
         "stroke": "#0000ff"
       },
       "geometry": {
         "coordinates": [
           [
-            -74.00597,
-            40.71427
+            -98.5316,
+            33.8903
           ],
           [
-            139.69171,
-            35.6895
+            1.49129,
+            42.46372
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from-city": "MSU-TX",
+        "to-city": "Pas de la Casa",
+        "stroke": "#00ff00"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -98.5316,
+            33.8903
+          ],
+          [
+            -1.73361,
+            42.54277
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "from-city": "MSU-TX",
+        "to-city": "MSU-TX",
+        "stroke": "#ff00ff"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -98.5316,
+            33.8903
+          ],
+          [
+            -98.5316,
+            33.8903
           ]
         ],
         "type": "LineString"
