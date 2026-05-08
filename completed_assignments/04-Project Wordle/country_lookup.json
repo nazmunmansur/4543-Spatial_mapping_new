@@ -1,0 +1,1187 @@
+{
+  "IDN": {
+    "name": "Indonesia",
+    "iso2": "id",
+    "flag_path": "flags/4x3/id.svg"
+  },
+  "MYS": {
+    "name": "Malaysia",
+    "iso2": "my",
+    "flag_path": "flags/4x3/my.svg"
+  },
+  "CHL": {
+    "name": "Chile",
+    "iso2": "cl",
+    "flag_path": "flags/4x3/cl.svg"
+  },
+  "BOL": {
+    "name": "Bolivia",
+    "iso2": "bo",
+    "flag_path": "flags/4x3/bo.svg"
+  },
+  "PER": {
+    "name": "Peru",
+    "iso2": "pe",
+    "flag_path": "flags/4x3/pe.svg"
+  },
+  "ARG": {
+    "name": "Argentina",
+    "iso2": "ar",
+    "flag_path": "flags/4x3/ar.svg"
+  },
+  "-99": {
+    "name": "Scarborough Reef",
+    "iso2": null,
+    "flag_path": null
+  },
+  "CYP": {
+    "name": "Cyprus",
+    "iso2": "cy",
+    "flag_path": "flags/4x3/cy.svg"
+  },
+  "IND": {
+    "name": "India",
+    "iso2": "in",
+    "flag_path": "flags/4x3/in.svg"
+  },
+  "CHN": {
+    "name": "China",
+    "iso2": "cn",
+    "flag_path": "flags/4x3/cn.svg"
+  },
+  "ISR": {
+    "name": "Israel",
+    "iso2": "il",
+    "flag_path": "flags/4x3/il.svg"
+  },
+  "PSE": {
+    "name": "Palestine",
+    "iso2": "ps",
+    "flag_path": "flags/4x3/ps.svg"
+  },
+  "LBN": {
+    "name": "Lebanon",
+    "iso2": "lb",
+    "flag_path": "flags/4x3/lb.svg"
+  },
+  "ETH": {
+    "name": "Ethiopia",
+    "iso2": "et",
+    "flag_path": "flags/4x3/et.svg"
+  },
+  "SSD": {
+    "name": "South Sudan",
+    "iso2": "ss",
+    "flag_path": "flags/4x3/ss.svg"
+  },
+  "SOM": {
+    "name": "Somalia",
+    "iso2": "so",
+    "flag_path": "flags/4x3/so.svg"
+  },
+  "KEN": {
+    "name": "Kenya",
+    "iso2": "ke",
+    "flag_path": "flags/4x3/ke.svg"
+  },
+  "MWI": {
+    "name": "Malawi",
+    "iso2": "mw",
+    "flag_path": "flags/4x3/mw.svg"
+  },
+  "TZA": {
+    "name": "United Republic of Tanzania",
+    "iso2": "tz",
+    "flag_path": "flags/4x3/tz.svg"
+  },
+  "SYR": {
+    "name": "Syria",
+    "iso2": "sy",
+    "flag_path": "flags/4x3/sy.svg"
+  },
+  "SUR": {
+    "name": "Suriname",
+    "iso2": "sr",
+    "flag_path": "flags/4x3/sr.svg"
+  },
+  "GUY": {
+    "name": "Guyana",
+    "iso2": "gy",
+    "flag_path": "flags/4x3/gy.svg"
+  },
+  "KOR": {
+    "name": "South Korea",
+    "iso2": null,
+    "flag_path": null
+  },
+  "PRK": {
+    "name": "North Korea",
+    "iso2": null,
+    "flag_path": null
+  },
+  "MAR": {
+    "name": "Morocco",
+    "iso2": "ma",
+    "flag_path": "flags/4x3/ma.svg"
+  },
+  "ESH": {
+    "name": "Western Sahara",
+    "iso2": "eh",
+    "flag_path": "flags/4x3/eh.svg"
+  },
+  "CRI": {
+    "name": "Costa Rica",
+    "iso2": "cr",
+    "flag_path": "flags/4x3/cr.svg"
+  },
+  "NIC": {
+    "name": "Nicaragua",
+    "iso2": "ni",
+    "flag_path": "flags/4x3/ni.svg"
+  },
+  "COG": {
+    "name": "Republic of the Congo",
+    "iso2": "cg",
+    "flag_path": "flags/4x3/cg.svg"
+  },
+  "COD": {
+    "name": "Democratic Republic of the Congo",
+    "iso2": "cd",
+    "flag_path": "flags/4x3/cd.svg"
+  },
+  "BTN": {
+    "name": "Bhutan",
+    "iso2": "bt",
+    "flag_path": "flags/4x3/bt.svg"
+  },
+  "UKR": {
+    "name": "Ukraine",
+    "iso2": "ua",
+    "flag_path": "flags/4x3/ua.svg"
+  },
+  "BLR": {
+    "name": "Belarus",
+    "iso2": "by",
+    "flag_path": "flags/4x3/by.svg"
+  },
+  "NAM": {
+    "name": "Namibia",
+    "iso2": "na",
+    "flag_path": "flags/4x3/na.svg"
+  },
+  "ZAF": {
+    "name": "South Africa",
+    "iso2": "za",
+    "flag_path": "flags/4x3/za.svg"
+  },
+  "MAF": {
+    "name": "Saint Martin",
+    "iso2": "mf",
+    "flag_path": "flags/4x3/mf.svg"
+  },
+  "SXM": {
+    "name": "Sint Maarten",
+    "iso2": "sx",
+    "flag_path": "flags/4x3/sx.svg"
+  },
+  "OMN": {
+    "name": "Oman",
+    "iso2": "om",
+    "flag_path": "flags/4x3/om.svg"
+  },
+  "UZB": {
+    "name": "Uzbekistan",
+    "iso2": "uz",
+    "flag_path": "flags/4x3/uz.svg"
+  },
+  "KAZ": {
+    "name": "Kazakhstan",
+    "iso2": "kz",
+    "flag_path": "flags/4x3/kz.svg"
+  },
+  "TJK": {
+    "name": "Tajikistan",
+    "iso2": "tj",
+    "flag_path": "flags/4x3/tj.svg"
+  },
+  "LTU": {
+    "name": "Lithuania",
+    "iso2": "lt",
+    "flag_path": "flags/4x3/lt.svg"
+  },
+  "BRA": {
+    "name": "Brazil",
+    "iso2": "br",
+    "flag_path": "flags/4x3/br.svg"
+  },
+  "URY": {
+    "name": "Uruguay",
+    "iso2": "uy",
+    "flag_path": "flags/4x3/uy.svg"
+  },
+  "MNG": {
+    "name": "Mongolia",
+    "iso2": "mn",
+    "flag_path": "flags/4x3/mn.svg"
+  },
+  "RUS": {
+    "name": "Russia",
+    "iso2": "ru",
+    "flag_path": "flags/4x3/ru.svg"
+  },
+  "CZE": {
+    "name": "Czechia",
+    "iso2": null,
+    "flag_path": null
+  },
+  "DEU": {
+    "name": "Germany",
+    "iso2": "de",
+    "flag_path": "flags/4x3/de.svg"
+  },
+  "EST": {
+    "name": "Estonia",
+    "iso2": "ee",
+    "flag_path": "flags/4x3/ee.svg"
+  },
+  "LVA": {
+    "name": "Latvia",
+    "iso2": "lv",
+    "flag_path": "flags/4x3/lv.svg"
+  },
+  "SWE": {
+    "name": "Sweden",
+    "iso2": "se",
+    "flag_path": "flags/4x3/se.svg"
+  },
+  "FIN": {
+    "name": "Finland",
+    "iso2": "fi",
+    "flag_path": "flags/4x3/fi.svg"
+  },
+  "VNM": {
+    "name": "Vietnam",
+    "iso2": null,
+    "flag_path": null
+  },
+  "KHM": {
+    "name": "Cambodia",
+    "iso2": "kh",
+    "flag_path": "flags/4x3/kh.svg"
+  },
+  "LUX": {
+    "name": "Luxembourg",
+    "iso2": "lu",
+    "flag_path": "flags/4x3/lu.svg"
+  },
+  "ARE": {
+    "name": "United Arab Emirates",
+    "iso2": "ae",
+    "flag_path": "flags/4x3/ae.svg"
+  },
+  "BEL": {
+    "name": "Belgium",
+    "iso2": "be",
+    "flag_path": "flags/4x3/be.svg"
+  },
+  "GEO": {
+    "name": "Georgia",
+    "iso2": "ge",
+    "flag_path": "flags/4x3/ge.svg"
+  },
+  "MKD": {
+    "name": "North Macedonia",
+    "iso2": "mk",
+    "flag_path": "flags/4x3/mk.svg"
+  },
+  "ALB": {
+    "name": "Albania",
+    "iso2": "al",
+    "flag_path": "flags/4x3/al.svg"
+  },
+  "AZE": {
+    "name": "Azerbaijan",
+    "iso2": "az",
+    "flag_path": "flags/4x3/az.svg"
+  },
+  "TUR": {
+    "name": "Turkey",
+    "iso2": null,
+    "flag_path": null
+  },
+  "ESP": {
+    "name": "Spain",
+    "iso2": "es",
+    "flag_path": "flags/4x3/es.svg"
+  },
+  "LAO": {
+    "name": "Laos",
+    "iso2": null,
+    "flag_path": null
+  },
+  "KGZ": {
+    "name": "Kyrgyzstan",
+    "iso2": "kg",
+    "flag_path": "flags/4x3/kg.svg"
+  },
+  "ARM": {
+    "name": "Armenia",
+    "iso2": "am",
+    "flag_path": "flags/4x3/am.svg"
+  },
+  "DNK": {
+    "name": "Denmark",
+    "iso2": "dk",
+    "flag_path": "flags/4x3/dk.svg"
+  },
+  "LBY": {
+    "name": "Libya",
+    "iso2": "ly",
+    "flag_path": "flags/4x3/ly.svg"
+  },
+  "TUN": {
+    "name": "Tunisia",
+    "iso2": "tn",
+    "flag_path": "flags/4x3/tn.svg"
+  },
+  "ROU": {
+    "name": "Romania",
+    "iso2": "ro",
+    "flag_path": "flags/4x3/ro.svg"
+  },
+  "HUN": {
+    "name": "Hungary",
+    "iso2": "hu",
+    "flag_path": "flags/4x3/hu.svg"
+  },
+  "SVK": {
+    "name": "Slovakia",
+    "iso2": "sk",
+    "flag_path": "flags/4x3/sk.svg"
+  },
+  "POL": {
+    "name": "Poland",
+    "iso2": "pl",
+    "flag_path": "flags/4x3/pl.svg"
+  },
+  "IRL": {
+    "name": "Ireland",
+    "iso2": "ie",
+    "flag_path": "flags/4x3/ie.svg"
+  },
+  "GBR": {
+    "name": "United Kingdom",
+    "iso2": "gb",
+    "flag_path": "flags/4x3/gb.svg"
+  },
+  "GRC": {
+    "name": "Greece",
+    "iso2": "gr",
+    "flag_path": "flags/4x3/gr.svg"
+  },
+  "ZMB": {
+    "name": "Zambia",
+    "iso2": "zm",
+    "flag_path": "flags/4x3/zm.svg"
+  },
+  "SLE": {
+    "name": "Sierra Leone",
+    "iso2": "sl",
+    "flag_path": "flags/4x3/sl.svg"
+  },
+  "GIN": {
+    "name": "Guinea",
+    "iso2": "gn",
+    "flag_path": "flags/4x3/gn.svg"
+  },
+  "LBR": {
+    "name": "Liberia",
+    "iso2": "lr",
+    "flag_path": "flags/4x3/lr.svg"
+  },
+  "CAF": {
+    "name": "Central African Republic",
+    "iso2": "cf",
+    "flag_path": "flags/4x3/cf.svg"
+  },
+  "SDN": {
+    "name": "Sudan",
+    "iso2": "sd",
+    "flag_path": "flags/4x3/sd.svg"
+  },
+  "DJI": {
+    "name": "Djibouti",
+    "iso2": "dj",
+    "flag_path": "flags/4x3/dj.svg"
+  },
+  "ERI": {
+    "name": "Eritrea",
+    "iso2": "er",
+    "flag_path": "flags/4x3/er.svg"
+  },
+  "AUT": {
+    "name": "Austria",
+    "iso2": "at",
+    "flag_path": "flags/4x3/at.svg"
+  },
+  "IRQ": {
+    "name": "Iraq",
+    "iso2": "iq",
+    "flag_path": "flags/4x3/iq.svg"
+  },
+  "ITA": {
+    "name": "Italy",
+    "iso2": "it",
+    "flag_path": "flags/4x3/it.svg"
+  },
+  "CHE": {
+    "name": "Switzerland",
+    "iso2": "ch",
+    "flag_path": "flags/4x3/ch.svg"
+  },
+  "IRN": {
+    "name": "Iran",
+    "iso2": "ir",
+    "flag_path": "flags/4x3/ir.svg"
+  },
+  "NLD": {
+    "name": "Netherlands",
+    "iso2": "nl",
+    "flag_path": "flags/4x3/nl.svg"
+  },
+  "LIE": {
+    "name": "Liechtenstein",
+    "iso2": "li",
+    "flag_path": "flags/4x3/li.svg"
+  },
+  "CIV": {
+    "name": "Ivory Coast",
+    "iso2": null,
+    "flag_path": null
+  },
+  "SRB": {
+    "name": "Republic of Serbia",
+    "iso2": "rs",
+    "flag_path": "flags/4x3/rs.svg"
+  },
+  "MLI": {
+    "name": "Mali",
+    "iso2": "ml",
+    "flag_path": "flags/4x3/ml.svg"
+  },
+  "SEN": {
+    "name": "Senegal",
+    "iso2": "sn",
+    "flag_path": "flags/4x3/sn.svg"
+  },
+  "NGA": {
+    "name": "Nigeria",
+    "iso2": "ng",
+    "flag_path": "flags/4x3/ng.svg"
+  },
+  "BEN": {
+    "name": "Benin",
+    "iso2": "bj",
+    "flag_path": "flags/4x3/bj.svg"
+  },
+  "AGO": {
+    "name": "Angola",
+    "iso2": "ao",
+    "flag_path": "flags/4x3/ao.svg"
+  },
+  "HRV": {
+    "name": "Croatia",
+    "iso2": "hr",
+    "flag_path": "flags/4x3/hr.svg"
+  },
+  "SVN": {
+    "name": "Slovenia",
+    "iso2": "si",
+    "flag_path": "flags/4x3/si.svg"
+  },
+  "QAT": {
+    "name": "Qatar",
+    "iso2": "qa",
+    "flag_path": "flags/4x3/qa.svg"
+  },
+  "SAU": {
+    "name": "Saudi Arabia",
+    "iso2": "sa",
+    "flag_path": "flags/4x3/sa.svg"
+  },
+  "BWA": {
+    "name": "Botswana",
+    "iso2": "bw",
+    "flag_path": "flags/4x3/bw.svg"
+  },
+  "ZWE": {
+    "name": "Zimbabwe",
+    "iso2": "zw",
+    "flag_path": "flags/4x3/zw.svg"
+  },
+  "PAK": {
+    "name": "Pakistan",
+    "iso2": "pk",
+    "flag_path": "flags/4x3/pk.svg"
+  },
+  "BGR": {
+    "name": "Bulgaria",
+    "iso2": "bg",
+    "flag_path": "flags/4x3/bg.svg"
+  },
+  "THA": {
+    "name": "Thailand",
+    "iso2": "th",
+    "flag_path": "flags/4x3/th.svg"
+  },
+  "SMR": {
+    "name": "San Marino",
+    "iso2": "sm",
+    "flag_path": "flags/4x3/sm.svg"
+  },
+  "HTI": {
+    "name": "Haiti",
+    "iso2": "ht",
+    "flag_path": "flags/4x3/ht.svg"
+  },
+  "DOM": {
+    "name": "Dominican Republic",
+    "iso2": "do",
+    "flag_path": "flags/4x3/do.svg"
+  },
+  "TCD": {
+    "name": "Chad",
+    "iso2": "td",
+    "flag_path": "flags/4x3/td.svg"
+  },
+  "KWT": {
+    "name": "Kuwait",
+    "iso2": "kw",
+    "flag_path": "flags/4x3/kw.svg"
+  },
+  "SLV": {
+    "name": "El Salvador",
+    "iso2": "sv",
+    "flag_path": "flags/4x3/sv.svg"
+  },
+  "GTM": {
+    "name": "Guatemala",
+    "iso2": "gt",
+    "flag_path": "flags/4x3/gt.svg"
+  },
+  "TLS": {
+    "name": "East Timor",
+    "iso2": null,
+    "flag_path": null
+  },
+  "BRN": {
+    "name": "Brunei",
+    "iso2": "bn",
+    "flag_path": "flags/4x3/bn.svg"
+  },
+  "MCO": {
+    "name": "Monaco",
+    "iso2": "mc",
+    "flag_path": "flags/4x3/mc.svg"
+  },
+  "DZA": {
+    "name": "Algeria",
+    "iso2": "dz",
+    "flag_path": "flags/4x3/dz.svg"
+  },
+  "MOZ": {
+    "name": "Mozambique",
+    "iso2": "mz",
+    "flag_path": "flags/4x3/mz.svg"
+  },
+  "SWZ": {
+    "name": "eSwatini",
+    "iso2": "sz",
+    "flag_path": "flags/4x3/sz.svg"
+  },
+  "BDI": {
+    "name": "Burundi",
+    "iso2": "bi",
+    "flag_path": "flags/4x3/bi.svg"
+  },
+  "RWA": {
+    "name": "Rwanda",
+    "iso2": "rw",
+    "flag_path": "flags/4x3/rw.svg"
+  },
+  "MMR": {
+    "name": "Myanmar",
+    "iso2": "mm",
+    "flag_path": "flags/4x3/mm.svg"
+  },
+  "BGD": {
+    "name": "Bangladesh",
+    "iso2": "bd",
+    "flag_path": "flags/4x3/bd.svg"
+  },
+  "AND": {
+    "name": "Andorra",
+    "iso2": "ad",
+    "flag_path": "flags/4x3/ad.svg"
+  },
+  "AFG": {
+    "name": "Afghanistan",
+    "iso2": "af",
+    "flag_path": "flags/4x3/af.svg"
+  },
+  "MNE": {
+    "name": "Montenegro",
+    "iso2": "me",
+    "flag_path": "flags/4x3/me.svg"
+  },
+  "BIH": {
+    "name": "Bosnia and Herzegovina",
+    "iso2": "ba",
+    "flag_path": "flags/4x3/ba.svg"
+  },
+  "UGA": {
+    "name": "Uganda",
+    "iso2": "ug",
+    "flag_path": "flags/4x3/ug.svg"
+  },
+  "CUB": {
+    "name": "Cuba",
+    "iso2": "cu",
+    "flag_path": "flags/4x3/cu.svg"
+  },
+  "HND": {
+    "name": "Honduras",
+    "iso2": "hn",
+    "flag_path": "flags/4x3/hn.svg"
+  },
+  "ECU": {
+    "name": "Ecuador",
+    "iso2": "ec",
+    "flag_path": "flags/4x3/ec.svg"
+  },
+  "COL": {
+    "name": "Colombia",
+    "iso2": "co",
+    "flag_path": "flags/4x3/co.svg"
+  },
+  "PRY": {
+    "name": "Paraguay",
+    "iso2": "py",
+    "flag_path": "flags/4x3/py.svg"
+  },
+  "PRT": {
+    "name": "Portugal",
+    "iso2": "pt",
+    "flag_path": "flags/4x3/pt.svg"
+  },
+  "MDA": {
+    "name": "Moldova",
+    "iso2": "md",
+    "flag_path": "flags/4x3/md.svg"
+  },
+  "TKM": {
+    "name": "Turkmenistan",
+    "iso2": "tm",
+    "flag_path": "flags/4x3/tm.svg"
+  },
+  "JOR": {
+    "name": "Jordan",
+    "iso2": "jo",
+    "flag_path": "flags/4x3/jo.svg"
+  },
+  "NPL": {
+    "name": "Nepal",
+    "iso2": "np",
+    "flag_path": "flags/4x3/np.svg"
+  },
+  "LSO": {
+    "name": "Lesotho",
+    "iso2": "ls",
+    "flag_path": "flags/4x3/ls.svg"
+  },
+  "CMR": {
+    "name": "Cameroon",
+    "iso2": "cm",
+    "flag_path": "flags/4x3/cm.svg"
+  },
+  "GAB": {
+    "name": "Gabon",
+    "iso2": "ga",
+    "flag_path": "flags/4x3/ga.svg"
+  },
+  "NER": {
+    "name": "Niger",
+    "iso2": "ne",
+    "flag_path": "flags/4x3/ne.svg"
+  },
+  "BFA": {
+    "name": "Burkina Faso",
+    "iso2": "bf",
+    "flag_path": "flags/4x3/bf.svg"
+  },
+  "TGO": {
+    "name": "Togo",
+    "iso2": "tg",
+    "flag_path": "flags/4x3/tg.svg"
+  },
+  "GHA": {
+    "name": "Ghana",
+    "iso2": "gh",
+    "flag_path": "flags/4x3/gh.svg"
+  },
+  "GNB": {
+    "name": "Guinea-Bissau",
+    "iso2": "gw",
+    "flag_path": "flags/4x3/gw.svg"
+  },
+  "GIB": {
+    "name": "Gibraltar",
+    "iso2": "gi",
+    "flag_path": "flags/4x3/gi.svg"
+  },
+  "USA": {
+    "name": "United States of America",
+    "iso2": "us",
+    "flag_path": "flags/4x3/us.svg"
+  },
+  "CAN": {
+    "name": "Canada",
+    "iso2": "ca",
+    "flag_path": "flags/4x3/ca.svg"
+  },
+  "MEX": {
+    "name": "Mexico",
+    "iso2": "mx",
+    "flag_path": "flags/4x3/mx.svg"
+  },
+  "BLZ": {
+    "name": "Belize",
+    "iso2": "bz",
+    "flag_path": "flags/4x3/bz.svg"
+  },
+  "PAN": {
+    "name": "Panama",
+    "iso2": "pa",
+    "flag_path": "flags/4x3/pa.svg"
+  },
+  "VEN": {
+    "name": "Venezuela",
+    "iso2": "ve",
+    "flag_path": "flags/4x3/ve.svg"
+  },
+  "PNG": {
+    "name": "Papua New Guinea",
+    "iso2": "pg",
+    "flag_path": "flags/4x3/pg.svg"
+  },
+  "EGY": {
+    "name": "Egypt",
+    "iso2": "eg",
+    "flag_path": "flags/4x3/eg.svg"
+  },
+  "YEM": {
+    "name": "Yemen",
+    "iso2": "ye",
+    "flag_path": "flags/4x3/ye.svg"
+  },
+  "MRT": {
+    "name": "Mauritania",
+    "iso2": "mr",
+    "flag_path": "flags/4x3/mr.svg"
+  },
+  "GNQ": {
+    "name": "Equatorial Guinea",
+    "iso2": "gq",
+    "flag_path": "flags/4x3/gq.svg"
+  },
+  "GMB": {
+    "name": "Gambia",
+    "iso2": "gm",
+    "flag_path": "flags/4x3/gm.svg"
+  },
+  "HKG": {
+    "name": "Hong Kong S.A.R.",
+    "iso2": "hk",
+    "flag_path": "flags/4x3/hk.svg"
+  },
+  "VAT": {
+    "name": "Vatican",
+    "iso2": null,
+    "flag_path": null
+  },
+  "ATA": {
+    "name": "Antarctica",
+    "iso2": "aq",
+    "flag_path": "flags/4x3/aq.svg"
+  },
+  "AUS": {
+    "name": "Australia",
+    "iso2": "au",
+    "flag_path": "flags/4x3/au.svg"
+  },
+  "GRL": {
+    "name": "Greenland",
+    "iso2": "gl",
+    "flag_path": "flags/4x3/gl.svg"
+  },
+  "FJI": {
+    "name": "Fiji",
+    "iso2": "fj",
+    "flag_path": "flags/4x3/fj.svg"
+  },
+  "NZL": {
+    "name": "New Zealand",
+    "iso2": "nz",
+    "flag_path": "flags/4x3/nz.svg"
+  },
+  "NCL": {
+    "name": "New Caledonia",
+    "iso2": "nc",
+    "flag_path": "flags/4x3/nc.svg"
+  },
+  "MDG": {
+    "name": "Madagascar",
+    "iso2": "mg",
+    "flag_path": "flags/4x3/mg.svg"
+  },
+  "PHL": {
+    "name": "Philippines",
+    "iso2": "ph",
+    "flag_path": "flags/4x3/ph.svg"
+  },
+  "LKA": {
+    "name": "Sri Lanka",
+    "iso2": "lk",
+    "flag_path": "flags/4x3/lk.svg"
+  },
+  "CUW": {
+    "name": "Cura\u00e7ao",
+    "iso2": "cw",
+    "flag_path": "flags/4x3/cw.svg"
+  },
+  "ABW": {
+    "name": "Aruba",
+    "iso2": "aw",
+    "flag_path": "flags/4x3/aw.svg"
+  },
+  "BHS": {
+    "name": "The Bahamas",
+    "iso2": "bs",
+    "flag_path": "flags/4x3/bs.svg"
+  },
+  "TCA": {
+    "name": "Turks and Caicos Islands",
+    "iso2": "tc",
+    "flag_path": "flags/4x3/tc.svg"
+  },
+  "TWN": {
+    "name": "Taiwan",
+    "iso2": "tw",
+    "flag_path": "flags/4x3/tw.svg"
+  },
+  "JPN": {
+    "name": "Japan",
+    "iso2": "jp",
+    "flag_path": "flags/4x3/jp.svg"
+  },
+  "SPM": {
+    "name": "Saint Pierre and Miquelon",
+    "iso2": "pm",
+    "flag_path": "flags/4x3/pm.svg"
+  },
+  "ISL": {
+    "name": "Iceland",
+    "iso2": "is",
+    "flag_path": "flags/4x3/is.svg"
+  },
+  "PCN": {
+    "name": "Pitcairn Islands",
+    "iso2": "pn",
+    "flag_path": "flags/4x3/pn.svg"
+  },
+  "PYF": {
+    "name": "French Polynesia",
+    "iso2": "pf",
+    "flag_path": "flags/4x3/pf.svg"
+  },
+  "ATF": {
+    "name": "French Southern and Antarctic Lands",
+    "iso2": null,
+    "flag_path": null
+  },
+  "SYC": {
+    "name": "Seychelles",
+    "iso2": "sc",
+    "flag_path": "flags/4x3/sc.svg"
+  },
+  "KIR": {
+    "name": "Kiribati",
+    "iso2": "ki",
+    "flag_path": "flags/4x3/ki.svg"
+  },
+  "MHL": {
+    "name": "Marshall Islands",
+    "iso2": "mh",
+    "flag_path": "flags/4x3/mh.svg"
+  },
+  "TTO": {
+    "name": "Trinidad and Tobago",
+    "iso2": "tt",
+    "flag_path": "flags/4x3/tt.svg"
+  },
+  "GRD": {
+    "name": "Grenada",
+    "iso2": "gd",
+    "flag_path": "flags/4x3/gd.svg"
+  },
+  "VCT": {
+    "name": "Saint Vincent and the Grenadines",
+    "iso2": "vc",
+    "flag_path": "flags/4x3/vc.svg"
+  },
+  "BRB": {
+    "name": "Barbados",
+    "iso2": "bb",
+    "flag_path": "flags/4x3/bb.svg"
+  },
+  "LCA": {
+    "name": "Saint Lucia",
+    "iso2": "lc",
+    "flag_path": "flags/4x3/lc.svg"
+  },
+  "DMA": {
+    "name": "Dominica",
+    "iso2": "dm",
+    "flag_path": "flags/4x3/dm.svg"
+  },
+  "UMI": {
+    "name": "United States Minor Outlying Islands",
+    "iso2": "um",
+    "flag_path": "flags/4x3/um.svg"
+  },
+  "MSR": {
+    "name": "Montserrat",
+    "iso2": "ms",
+    "flag_path": "flags/4x3/ms.svg"
+  },
+  "ATG": {
+    "name": "Antigua and Barbuda",
+    "iso2": "ag",
+    "flag_path": "flags/4x3/ag.svg"
+  },
+  "KNA": {
+    "name": "Saint Kitts and Nevis",
+    "iso2": "kn",
+    "flag_path": "flags/4x3/kn.svg"
+  },
+  "VIR": {
+    "name": "United States Virgin Islands",
+    "iso2": null,
+    "flag_path": null
+  },
+  "BLM": {
+    "name": "Saint Barthelemy",
+    "iso2": null,
+    "flag_path": null
+  },
+  "PRI": {
+    "name": "Puerto Rico",
+    "iso2": "pr",
+    "flag_path": "flags/4x3/pr.svg"
+  },
+  "AIA": {
+    "name": "Anguilla",
+    "iso2": "ai",
+    "flag_path": "flags/4x3/ai.svg"
+  },
+  "VGB": {
+    "name": "British Virgin Islands",
+    "iso2": null,
+    "flag_path": null
+  },
+  "JAM": {
+    "name": "Jamaica",
+    "iso2": "jm",
+    "flag_path": "flags/4x3/jm.svg"
+  },
+  "CYM": {
+    "name": "Cayman Islands",
+    "iso2": "ky",
+    "flag_path": "flags/4x3/ky.svg"
+  },
+  "BMU": {
+    "name": "Bermuda",
+    "iso2": "bm",
+    "flag_path": "flags/4x3/bm.svg"
+  },
+  "HMD": {
+    "name": "Heard Island and McDonald Islands",
+    "iso2": "hm",
+    "flag_path": "flags/4x3/hm.svg"
+  },
+  "SHN": {
+    "name": "Saint Helena",
+    "iso2": "sh-hl",
+    "flag_path": "flags/4x3/sh-hl.svg"
+  },
+  "MUS": {
+    "name": "Mauritius",
+    "iso2": "mu",
+    "flag_path": "flags/4x3/mu.svg"
+  },
+  "COM": {
+    "name": "Comoros",
+    "iso2": "km",
+    "flag_path": "flags/4x3/km.svg"
+  },
+  "STP": {
+    "name": "S\u00e3o Tom\u00e9 and Principe",
+    "iso2": null,
+    "flag_path": null
+  },
+  "CPV": {
+    "name": "Cabo Verde",
+    "iso2": "cv",
+    "flag_path": "flags/4x3/cv.svg"
+  },
+  "MLT": {
+    "name": "Malta",
+    "iso2": "mt",
+    "flag_path": "flags/4x3/mt.svg"
+  },
+  "JEY": {
+    "name": "Jersey",
+    "iso2": "je",
+    "flag_path": "flags/4x3/je.svg"
+  },
+  "GGY": {
+    "name": "Guernsey",
+    "iso2": "gg",
+    "flag_path": "flags/4x3/gg.svg"
+  },
+  "IMN": {
+    "name": "Isle of Man",
+    "iso2": "im",
+    "flag_path": "flags/4x3/im.svg"
+  },
+  "ALA": {
+    "name": "Aland",
+    "iso2": "ax",
+    "flag_path": "flags/4x3/ax.svg"
+  },
+  "FRO": {
+    "name": "Faroe Islands",
+    "iso2": "fo",
+    "flag_path": "flags/4x3/fo.svg"
+  },
+  "IOT": {
+    "name": "British Indian Ocean Territory",
+    "iso2": "io",
+    "flag_path": "flags/4x3/io.svg"
+  },
+  "SGP": {
+    "name": "Singapore",
+    "iso2": "sg",
+    "flag_path": "flags/4x3/sg.svg"
+  },
+  "NFK": {
+    "name": "Norfolk Island",
+    "iso2": "nf",
+    "flag_path": "flags/4x3/nf.svg"
+  },
+  "COK": {
+    "name": "Cook Islands",
+    "iso2": "ck",
+    "flag_path": "flags/4x3/ck.svg"
+  },
+  "TON": {
+    "name": "Tonga",
+    "iso2": "to",
+    "flag_path": "flags/4x3/to.svg"
+  },
+  "WLF": {
+    "name": "Wallis and Futuna",
+    "iso2": "wf",
+    "flag_path": "flags/4x3/wf.svg"
+  },
+  "WSM": {
+    "name": "Samoa",
+    "iso2": "ws",
+    "flag_path": "flags/4x3/ws.svg"
+  },
+  "SLB": {
+    "name": "Solomon Islands",
+    "iso2": "sb",
+    "flag_path": "flags/4x3/sb.svg"
+  },
+  "TUV": {
+    "name": "Tuvalu",
+    "iso2": "tv",
+    "flag_path": "flags/4x3/tv.svg"
+  },
+  "MDV": {
+    "name": "Maldives",
+    "iso2": "mv",
+    "flag_path": "flags/4x3/mv.svg"
+  },
+  "NRU": {
+    "name": "Nauru",
+    "iso2": "nr",
+    "flag_path": "flags/4x3/nr.svg"
+  },
+  "FSM": {
+    "name": "Federated States of Micronesia",
+    "iso2": "fm",
+    "flag_path": "flags/4x3/fm.svg"
+  },
+  "SGS": {
+    "name": "South Georgia and the Islands",
+    "iso2": "ge",
+    "flag_path": "flags/4x3/ge.svg"
+  },
+  "FLK": {
+    "name": "Falkland Islands",
+    "iso2": "fk",
+    "flag_path": "flags/4x3/fk.svg"
+  },
+  "VUT": {
+    "name": "Vanuatu",
+    "iso2": "vu",
+    "flag_path": "flags/4x3/vu.svg"
+  },
+  "NIU": {
+    "name": "Niue",
+    "iso2": "nu",
+    "flag_path": "flags/4x3/nu.svg"
+  },
+  "ASM": {
+    "name": "American Samoa",
+    "iso2": "as",
+    "flag_path": "flags/4x3/as.svg"
+  },
+  "PLW": {
+    "name": "Palau",
+    "iso2": "pw",
+    "flag_path": "flags/4x3/pw.svg"
+  },
+  "GUM": {
+    "name": "Guam",
+    "iso2": "gu",
+    "flag_path": "flags/4x3/gu.svg"
+  },
+  "MNP": {
+    "name": "Northern Mariana Islands",
+    "iso2": "mp",
+    "flag_path": "flags/4x3/mp.svg"
+  },
+  "BHR": {
+    "name": "Bahrain",
+    "iso2": "bh",
+    "flag_path": "flags/4x3/bh.svg"
+  },
+  "MAC": {
+    "name": "Macao S.A.R",
+    "iso2": null,
+    "flag_path": null
+  }
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Akyumak",
+      "mass": 50000,
+      "year": 1981,
+      "id": 433,
+      "fall": "Fell",
+      "recclass": "Iron, IVA",
+      "marker-color": "#efffbb",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.81667,
+        39.91667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aumale",
+      "mass": 50000,
+      "year": 1865,
+      "id": 4899,
+      "fall": "Fell",
+      "recclass": "L6",
+      "marker-color": "#561511",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.66667,
+        36.16667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Ausson",
+      "mass": 50000,
+      "year": 1858,
+      "id": 4903,
+      "fall": "Fell",
+      "recclass": "L5",
+      "marker-color": "#e89f21",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.58333,
+        43.08333
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Krymka",
+      "mass": 50000,
+      "year": 1946,
+      "id": 12364,
+      "fall": "Fell",
+      "recclass": "LL3.2",
+      "marker-color": "#b94702",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        30.76667,
+        47.83333
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Limerick",
+      "mass": 50000,
+      "year": 1813,
+      "id": 14652,
+      "fall": "Fell",
+      "recclass": "H5",
+      "marker-color": "#03e496",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.78333,
+        52.56667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Nuevo Mercurio",
+      "mass": 50000,
+      "year": 1978,
+      "id": 17938,
+      "fall": "Fell",
+      "recclass": "H5",
+      "marker-color": "#1ed71f",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -102.13333,
+        24.3
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Valera",
+      "mass": 50000,
+      "year": 1972,
+      "id": 24149,
+      "fall": "Fell",
+      "recclass": "L5",
+      "marker-color": "#808c2e",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -70.62833,
+        9.31667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Wuan",
+      "mass": 50000,
+      "year": 1986,
+      "id": 24340,
+      "fall": "Fell",
+      "recclass": "H6",
+      "marker-color": "#2258c9",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.25,
+        36.75
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Dhofar 1654",
+      "mass": 50000,
+      "year": 2011,
+      "id": 55572,
+      "fall": "Found",
+      "recclass": "L5",
+      "marker-color": "#1f1987",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        54.2876,
+        18.67877
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Hammadah al Hamra 153",
+      "mass": 50000,
+      "year": 1995,
+      "id": 11636,
+      "fall": "Found",
+      "recclass": "H3.8-4",
+      "marker-color": "#40b39b",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.5775,
+        28.60033
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Hinojal",
+      "mass": 50000,
+      "year": 1927,
+      "id": 11887,
+      "fall": "Found",
+      "recclass": "L6",
+      "marker-color": "#a79e91",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -60.15,
+        -32.36667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Ingella Station",
+      "mass": 50000,
+      "year": 1987,
+      "id": 12034,
+      "fall": "Found",
+      "recclass": "H5",
+      "marker-color": "#d6ee76",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.78333,
+        -25.55
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Northwest Africa 6903",
+      "mass": 50000,
+      "year": 2008,
+      "id": 53891,
+      "fall": "Found",
+      "recclass": "Iron, IIIAB",
+      "marker-color": "#2b6844",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.36,
+        32.37167
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Waconda",
+      "mass": 50000,
+      "year": 1873,
+      "id": 24195,
+      "fall": "Found",
+      "recclass": "L6",
+      "marker-color": "#2f171c",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.16667,
+        39.33333
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Winburg",
+      "mass": 50000,
+      "year": 1881,
+      "id": 24283,
+      "fall": "Found",
+      "recclass": "Iron, IC-an",
+      "marker-color": "#e56c59",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        27.0,
+        -28.5
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Zagora",
+      "mass": 50000,
+      "year": 1987,
+      "id": 30387,
+      "fall": "Found",
+      "recclass": "Iron, IAB-ung",
+      "marker-color": "#b8b651",
+      "marker-size": "small"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.85,
+        30.36667
+      ]
+    }
+  }
+]
