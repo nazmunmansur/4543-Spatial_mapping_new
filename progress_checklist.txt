@@ -179,9 +179,9 @@ completed_assignments/
 │       │   ├── ❌ 05_Region_Classification.ipynb
 │       │   └── ❌ 06_Interactive_Click_Applications.ipynb
 │       ├── 12-Refactoring/
-│       │   └── ❌ 01-From-Notebook-to-Module.ipynb
+│       │   └── ✅ 01-From-Notebook-to-Module.ipynb
 │       └── 13-WDO_Library/
-│           └── ❌ 01-Installing-and-Using-WDO.ipynb
+│           └── ✅ 01-Installing-and-Using-WDO.ipynb
 └── 03-Data_Manager/
     └── _micro_lessons/
         ├── 00-Data_Exploration/
@@ -386,9 +386,9 @@ completed_assignments/
 │       │   ├── 02-Draw_BBox.ipynb
 │       │   └── 03-Why_LatLon_Is_Weird.ipynb
 │       ├── 12-Refactoring
-│       │   ├── 01-From-Notebook-to-Module.done.ipynb
+│       │   ├── 01-From-Notebook-to-Module.ipynb
 │       │   └── geo.py
-│       └── 13-Wdo
+│       └── 13-WDO_Library
 │           ├── src
 │           │   ├── wdo
 │           │   │   ├── __init__.py
@@ -3453,7 +3453,8 @@ completed_assignments/
 │   ├── World Countries.geojson.txt
 │   ├── world_countries.json
 │   └── world_countries_lookup.json
-└── progress_checklist.md
+├── checklist.md
+└── progress_checklist.txt
 
 ============================================================
   SUMMARY
@@ -3468,14 +3469,14 @@ completed_assignments/
     Goal: complete all 11 + include your working project
 
   02-Missile_Geometry_202
-    22/60  [██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
+    24/60  [████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]
     Goal: complete all 60 notebooks
 
   03-Data_Manager
     20/21  [████████████████████░]
     Goal: complete all 21 notebooks
 
-  Total: 91/130 notebooks found
+  Total: 93/130 notebooks found
 
 
 ============================================================
